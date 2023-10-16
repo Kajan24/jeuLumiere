@@ -1,0 +1,34 @@
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.Form1.resources
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.csproj.GenerateResource.cache
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.AssemblyInfoInputs.cache
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.AssemblyInfo.cs
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.csproj.CoreCompileInputs.cache
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.exe
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.deps.json
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.runtimeconfig.json
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.dll
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.pdb
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.dll
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\refint\lumieres.dll
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.pdb
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.genruntimeconfig.cache
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\ref\lumieres.dll
+G:\Mon Drive\CFPT_23-24\atelier_prog\csharp\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.Properties.Resources.resources
+C:\Users\Kajan\Documents\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.exe
+C:\Users\Kajan\Documents\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.deps.json
+C:\Users\Kajan\Documents\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.runtimeconfig.json
+C:\Users\Kajan\Documents\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.dll
+C:\Users\Kajan\Documents\lumieres\lumieres\bin\Debug\net6.0-windows\lumieres.pdb
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.Form1.resources
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.Properties.Resources.resources
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.csproj.GenerateResource.cache
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.AssemblyInfoInputs.cache
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.AssemblyInfo.cs
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.csproj.CoreCompileInputs.cache
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.dll
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\refint\lumieres.dll
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.pdb
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\lumieres.genruntimeconfig.cache
+C:\Users\Kajan\Documents\lumieres\lumieres\obj\Debug\net6.0-windows\ref\lumieres.dll
